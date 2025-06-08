@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ETL Weather Data Warehouse
 
 A containerized ETL pipeline that processes weather data from public APIs, transforms it using dbt, and visualizes it through a Streamlit dashboard.
@@ -56,6 +55,3 @@ pytest tests/
 ## License
 
 MIT 
-=======
-# ETL-Weather-Data-Warehouse
->>>>>>> 31f844f4b3dfdf43466a659d9e0c063b629447a2
