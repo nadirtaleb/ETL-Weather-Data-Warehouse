@@ -1,0 +1,11 @@
+name: 'weather_warehouse'
+version: '1.0'
+config-version: 2
+
+profile: 'weather_warehouse'
+
+model-paths: ["models"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules" 
